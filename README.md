@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'HANAMDAUM';
@@ -12,7 +12,7 @@ font-family: 'HANAMDAUM';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HANAMDAUM/HANAMDAUM.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/HANAMDAUM/HANAMDAUM.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -51,4 +51,13 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HANAMDAUM/HANAMDAUM-Title.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HANAMDAUM/HANAMDAUM-Title.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+하남다움체는 공공누리 제1유형 기준 무료로 자유롭게 사용 가능합니다. 
+단, 상업적으로 재판매하는 행위는 제한됨을 알려드립니다.
 ```
